@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Learn more about me!
-
 ### Career/School
 
 I'm from Atlanta, GA and currently attend Dartmouth College as an undergraduate. I'm double majoring in Computer Science and Economics, and I am exploring the many different options of career paths. I'm interested in business consulting, software engineering, real estate, startups, you name it. Until I figure out what I want to do with my life, I'm going to keep learning as much as possible and getting to know all kinds of people while at school.
