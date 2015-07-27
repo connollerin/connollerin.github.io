@@ -4,11 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Learn more about me!
 
-### More Information
+### Career/School
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm from Atlanta, GA and currently attend Dartmouth College as an undergraduate. I'm double majoring in Computer Science and Economics, and I am exploring the many different options of career paths. I'm interested in business consulting, software engineering, real estate, startups, you name it. Until I figure out what I want to do with my life, I'm going to keep learning as much as possible and getting to know all kinds of people while at school.
+
+### Hobbies
+
+At Dartmouth, I am a member of the Club Triathlon Team, and I love to run. I also enjoy yoga and hiking in the mountains around Vermont and New Hampshire. I am proficient in French and am excited to study abroad in Paris in the Spring of 2016. I can't wait to travel and spend time in a different part of the world.
 
 ### Contact me
 
