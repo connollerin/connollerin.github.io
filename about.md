@@ -10,7 +10,7 @@ I'm from Atlanta, GA and currently attend Dartmouth College as an undergraduate.
 
 ### Hobbies
 
-At Dartmouth, I am a member of the Club Triathlon Team, and I love to run. I also enjoy yoga and hiking in the mountains around Vermont and New Hampshire. I am proficient in French and am excited to study abroad in Paris in the Spring of 2016. 
+At Dartmouth, I am a member of the Club Triathlon Team, and I love to run. I also enjoy yoga and hiking in the mountains around Vermont and New Hampshire. I am proficient in French and am excited to study abroad in Paris in the Spring of 2016.
 
 ### Contact me
 
