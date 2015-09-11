@@ -20,7 +20,7 @@ html {
 body {
   background-image: url("images/Death_to_stock_above_3.JPG");
   font: 18px/1.4 $helvetica;
-  color: #003319;
+  color: $darkGray;
 }
 
 .container {
@@ -275,7 +275,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: #003319;
 }
 
 footer {
